@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Stage One</string>
     <string name="profile_description">User\'s profile picture</string>
-    <string name="open_github">Open Github</string>
+    <string name="open_github">Open GitHub</string>
 </resources>
